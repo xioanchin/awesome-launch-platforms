@@ -137,7 +137,7 @@ These platforms provide backlinks and consistent referral traffic with strong do
 | 38 | SaaS Hub | Find the right SaaS for you | SaaS seekers, business leaders | 350K | Free | 60 | [Link](https://saashub.com) |
 | 39 | SaaS Mag | The SaaS industry magazine | SaaS professionals, founders | 200K | Free | 51 | [Link](https://saasmag.com) |
 | 40 | SaaS Products | Discover SaaS products | SaaS buyers, business leaders | 280K | Free | 57 | [Link](https://saasproducts.com) |
-| 41 | SaaSCity | Launch on a live isometric city map | SaaS founders, indie hackers | 208 | Free | 46 | [Link](https://saascity.io) |
+| 41 | SaaSCity | Launch on a live isometric city map | SaaS founders, indie hackers | 208 | Free | 64 | [Link](https://saascity.io) |
 
 ---
 
