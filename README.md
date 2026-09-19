@@ -198,6 +198,7 @@ Platforms focused on specific product categories or audiences.
 | 20 | TinyLaunch | Tiny product marketplace | Makers, indie developers | 70K | Free | [Link](https://tinylaunch.co) |
 | 21 | TrustRadius | B2B software reviews | Enterprise software buyers | 1.5M+ | Free | [Link](https://trustradius.com) |
 | 22 | Uneed | Best indie maker products | Tech enthusiasts, buyers | 200K | Free | [Link](https://uneed.best) |
+| 23 | SaaS Launch Directories Explorer | Interactive launch directories & DoFollow verification tools | Founders, indie makers, growth hackers | 50K+ | Free | [Link](https://themerchcog.github.io/saas-launch-directories-2026/) |
 
 ---
 
