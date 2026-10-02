@@ -138,6 +138,7 @@ These platforms provide backlinks and consistent referral traffic with strong do
 | 39 | SaaS Mag | The SaaS industry magazine | SaaS professionals, founders | 200K | Free | 51 | [Link](https://saasmag.com) |
 | 40 | SaaS Products | Discover SaaS products | SaaS buyers, business leaders | 280K | Free | 57 | [Link](https://saasproducts.com) |
 | 41 | SaaSCity | Launch on a live isometric city map | SaaS founders, indie hackers | 208 | Free | 46 | [Link](https://saascity.io) |
+| 42 | submitby.ai | A software directory your agent submits to | Software makers, indie founders, developers | Not published | Free with a badge; $4.99 once without | Not measured | [Submit](https://submitby.ai/for-agents) |
 
 ---
 
