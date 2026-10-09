@@ -133,11 +133,12 @@ These platforms provide backlinks and consistent referral traffic with strong do
 | 34 | Peerlist | Your professional identity | Tech professionals, builders | 250K | Free | 56 | [Link](https://peerlist.io) |
 | 35 | PitchWall | Startup pitch & feedback platform | Founders, investors | 60K | Free | 37 | [Link](https://pitchwall.co) |
 | 36 | PromoteHour | Promote your startup like a pro | Startup marketers, founders | 50K | Paid ($39-129/mo) | 34 | [Link](https://promotehour.com) |
-| 37 | SaaS Genius | SaaS software comparison platform | SaaS buyers, B2B buyers | 300K | Free | 58 | [Link](https://saasgenius.com) |
-| 38 | SaaS Hub | Find the right SaaS for you | SaaS seekers, business leaders | 350K | Free | 60 | [Link](https://saashub.com) |
-| 39 | SaaS Mag | The SaaS industry magazine | SaaS professionals, founders | 200K | Free | 51 | [Link](https://saasmag.com) |
-| 40 | SaaS Products | Discover SaaS products | SaaS buyers, business leaders | 280K | Free | 57 | [Link](https://saasproducts.com) |
-| 41 | SaaSCity | Launch on a live isometric city map | SaaS founders, indie hackers | 208 | Free | 46 | [Link](https://saascity.io) |
+| 37 | ProgrammerNeeds | Discover products built by independent developers | Developers, indie makers, startup founders | TBD | Free | 13 | [Link](https://programmerneeds.com/submit) |
+| 38 | SaaS Genius | SaaS software comparison platform | SaaS buyers, B2B buyers | 300K | Free | 58 | [Link](https://saasgenius.com) |
+| 39 | SaaS Hub | Find the right SaaS for you | SaaS seekers, business leaders | 350K | Free | 60 | [Link](https://saashub.com) |
+| 40 | SaaS Mag | The SaaS industry magazine | SaaS professionals, founders | 200K | Free | 51 | [Link](https://saasmag.com) |
+| 41 | SaaS Products | Discover SaaS products | SaaS buyers, business leaders | 280K | Free | 57 | [Link](https://saasproducts.com) |
+| 42 | SaaSCity | Launch on a live isometric city map | SaaS founders, indie hackers | 208 | Free | 46 | [Link](https://saascity.io) |
 
 ---
 
