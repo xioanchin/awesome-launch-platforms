@@ -176,28 +176,29 @@ Platforms focused on specific product categories or audiences.
 
 | # | Name | Category | Primary Audience | MAU | Cost | URL |
 |---|------|----------|------------------|-----|------|-----|
-| 1 | SaaS Scout | SaaS research made easy | B2B buyers, SaaS professionals | 250K | Free | [Link](https://saasscout.com) |
-| 2 | SaaS Worthy | SaaS reviews & comparisons | Business leaders, decision makers | 200K | Free | [Link](https://saasworthy.com) |
-| 3 | SideProjectors | Buy & sell side projects | Entrepreneurs, investors | 80K | Free | [Link](https://sideprojectors.com) |
-| 4 | Software Advice | Business software recommendations | Enterprise buyers | 1M+ | Paid | [Link](https://softwareadvice.com) |
-| 5 | StackShare | The tech stack of the world | Developers, CTOs, architects | 800K | Free | [Link](https://stackshare.io) |
-| 6 | StackSocial | Tech deals & bundles | Tech deal seekers | 300K | Paid | [Link](https://stacksocial.com) |
-| 7 | Startup 88 | Young tech startups | Tech enthusiasts, investors | 100K | Free | [Link](https://startup88.com) |
-| 8 | Startup Base | Startup database | Founders, investors, researchers | 120K | Free | [Link](https://startupbase.io) |
-| 9 | Startup Beat | Discover emerging startups | Startup news followers | 110K | Free | [Link](https://startupbeat.com) |
-| 10 | Startup Buffer | Resources for startup founders | Early-stage founders | 90K | Free | [Link](https://startupbuffer.com) |
-| 11 | Startup Button | Find & discover startups | Early adopters, investors | 75K | Free | [Link](https://startupbutton.com) |
-| 12 | Startup Framework | Bootstrap framework for startups | Designers, developers | 250K | Paid ($49-299) | [Link](https://startupframework.com) |
-| 13 | Startup Inspire | Inspiring startup stories | Entrepreneurs, investors | 85K | Free | [Link](https://startupinspire.com) |
-| 14 | Startup Lister | Directory submission service | Startup founders | 60K | Paid ($99-599) | [Link](https://startuplister.com) |
-| 15 | Startup Pitch | Pitch your startup idea | Founders, investors | 70K | Free | [Link](https://thestartuppitch.com) |
-| 16 | Startup Ranking | Global startup database | Investors, researchers, founders | 300K | Free/Paid | [Link](https://startupranking.com) |
-| 17 | Startup Stash | Startup resources & tools | Founders, entrepreneurs | 400K | Free | [Link](https://startupstash.com) |
-| 18 | Startup Tracker | Track startups worldwide | Investors, researchers | 150K | Free | [Link](https://startuptracker.io) |
-| 19 | Super Launch | Launch your product confidently | Ambitious builders | 100K | Free | [Link](https://superlaunch.com) |
-| 20 | TinyLaunch | Tiny product marketplace | Makers, indie developers | 70K | Free | [Link](https://tinylaunch.co) |
-| 21 | TrustRadius | B2B software reviews | Enterprise software buyers | 1.5M+ | Free | [Link](https://trustradius.com) |
-| 22 | Uneed | Best indie maker products | Tech enthusiasts, buyers | 200K | Free | [Link](https://uneed.best) |
+| 1 | RoboDebut | A website directory you submit to with a coding agent | Founders and indie makers who use coding agents | Not published | Free | [Link](https://robodebut.com) |
+| 2 | SaaS Scout | SaaS research made easy | B2B buyers, SaaS professionals | 250K | Free | [Link](https://saasscout.com) |
+| 3 | SaaS Worthy | SaaS reviews & comparisons | Business leaders, decision makers | 200K | Free | [Link](https://saasworthy.com) |
+| 4 | SideProjectors | Buy & sell side projects | Entrepreneurs, investors | 80K | Free | [Link](https://sideprojectors.com) |
+| 5 | Software Advice | Business software recommendations | Enterprise buyers | 1M+ | Paid | [Link](https://softwareadvice.com) |
+| 6 | StackShare | The tech stack of the world | Developers, CTOs, architects | 800K | Free | [Link](https://stackshare.io) |
+| 7 | StackSocial | Tech deals & bundles | Tech deal seekers | 300K | Paid | [Link](https://stacksocial.com) |
+| 8 | Startup 88 | Young tech startups | Tech enthusiasts, investors | 100K | Free | [Link](https://startup88.com) |
+| 9 | Startup Base | Startup database | Founders, investors, researchers | 120K | Free | [Link](https://startupbase.io) |
+| 10 | Startup Beat | Discover emerging startups | Startup news followers | 110K | Free | [Link](https://startupbeat.com) |
+| 11 | Startup Buffer | Resources for startup founders | Early-stage founders | 90K | Free | [Link](https://startupbuffer.com) |
+| 12 | Startup Button | Find & discover startups | Early adopters, investors | 75K | Free | [Link](https://startupbutton.com) |
+| 13 | Startup Framework | Bootstrap framework for startups | Designers, developers | 250K | Paid ($49-299) | [Link](https://startupframework.com) |
+| 14 | Startup Inspire | Inspiring startup stories | Entrepreneurs, investors | 85K | Free | [Link](https://startupinspire.com) |
+| 15 | Startup Lister | Directory submission service | Startup founders | 60K | Paid ($99-599) | [Link](https://startuplister.com) |
+| 16 | Startup Pitch | Pitch your startup idea | Founders, investors | 70K | Free | [Link](https://thestartuppitch.com) |
+| 17 | Startup Ranking | Global startup database | Investors, researchers, founders | 300K | Free/Paid | [Link](https://startupranking.com) |
+| 18 | Startup Stash | Startup resources & tools | Founders, entrepreneurs | 400K | Free | [Link](https://startupstash.com) |
+| 19 | Startup Tracker | Track startups worldwide | Investors, researchers | 150K | Free | [Link](https://startuptracker.io) |
+| 20 | Super Launch | Launch your product confidently | Ambitious builders | 100K | Free | [Link](https://superlaunch.com) |
+| 21 | TinyLaunch | Tiny product marketplace | Makers, indie developers | 70K | Free | [Link](https://tinylaunch.co) |
+| 22 | TrustRadius | B2B software reviews | Enterprise software buyers | 1.5M+ | Free | [Link](https://trustradius.com) |
+| 23 | Uneed | Best indie maker products | Tech enthusiasts, buyers | 200K | Free | [Link](https://uneed.best) |
 
 ---
 
