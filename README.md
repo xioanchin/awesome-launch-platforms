@@ -105,39 +105,40 @@ These platforms provide backlinks and consistent referral traffic with strong do
 | 6 | AppSumo | Deals on software tools | SMB buyers, deal seekers | 500K | Paid ($299-799) | 76 | [Link](https://appsumo.com) |
 | 7 | AppVita | Discover web apps | SaaS hunters, early adopters | 100K | Free | 42 | [Link](https://appvita.com) |
 | 8 | Aura++ | Authentic connections for startup founders | Startup founders, builders | 80K | Free | 38 | [Link](https://auraplusplus.com) |
-| 9 | BetaPage | Launch and grow your startup | Early adopters, beta testers | 120K | Free | 48 | [Link](https://betapage.co) |
-| 10 | BetaTesting | Professional beta testing platform | QA professionals, beta testers | 80K | Paid ($50-200/mo) | 55 | [Link](https://betatesting.com) |
-| 11 | Bulletin | Direct channel to makers | SaaS builders, indie makers | 75K | Free | 40 | [Link](https://bulletin.so) |
-| 12 | Capterra | Find the right software | B2B buyers, SMBs | 3M+ | Free/Paid | 85 | [Link](https://capterra.com) |
-| 13 | Cool Startup | Cool new digital products | Tech enthusiasts, early adopters | 60K | Free | 38 | [Link](https://coolstartup.io) |
-| 14 | Crozdesk | Business software research platform | B2B buyers, SMBs | 1M+ | Free | 75 | [Link](https://crozdesk.com) |
-| 15 | Crunchbase | The #1 platform for discovering innovative companies | Investors, researchers, founders | 2M+ | Free/Paid | 89 | [Link](https://crunchbase.com) |
-| 16 | EarlyHunt | Curated early-stage products | Early adopters, tech enthusiasts | 150K | Free | 50 | [Link](https://earlyhunt.com) |
-| 17 | Erli Bird | Early adopter community for product discovery | Beta testers, early adopters | 100K | Paid ($99/mo) | 48 | [Link](https://erlibird.com) |
-| 18 | F6S | The global startup platform | Founders, accelerators, investors | 1M+ | Free | 80 | [Link](https://f6s.com) |
-| 19 | Fazier | Startups that matter | Startup founders, early adopters | 70K | Free | 36 | [Link](https://fazier.com) |
-| 20 | FeedMyStartup | Feed your startup ecosystem | Startup founders, entrepreneurs | 90K | Free | 42 | [Link](https://feedmystartup.com) |
-| 21 | Future Tools | The largest directory of AI tools | AI enthusiasts, builders | 400K+ | Free | 65 | [Link](https://futuretools.io) |
-| 22 | Futurepedia | The most comprehensive AI tools directory | AI tool users, tech professionals | 350K+ | Free | 62 | [Link](https://futurepedia.io) |
-| 23 | G2 | The leading software marketplace | Enterprise buyers, CTOs | 4M+ | Paid ($500-5000/mo) | 87 | [Link](https://g2.com) |
-| 24 | GetApp | Business software at the click of a button | Business software buyers | 1M+ | Free | 81 | [Link](https://getapp.com) |
-| 25 | Hackers and Founders | Community for tech founders | Tech founders, engineers | 200K | Free | 55 | [Link](https://hackersandfounders.com) |
-| 26 | Index.co | The startup encyclopedia | Tech companies, investors | 80K | Free | 44 | [Link](https://index.co) |
-| 27 | KillerStartups | Discover innovative startups | Startup news readers, investors | 180K | Free | 52 | [Link](https://killerstartups.com) |
-| 28 | Launch | New product launches | Early adopters, tech enthusiasts | 120K | Free | 45 | [Link](https://launch.co) |
-| 29 | Launching Next | Your next big product discovery | Early adopters, investors | 100K | Free | 46 | [Link](https://launchingnext.com) |
-| 30 | Launching Tomorrow | Where ideas become products | Product hunters, early adopters | 90K | Free | 43 | [Link](https://launchingtomorrow.com) |
-| 31 | Launching.io | Product launches for everyone | Entrepreneurs, builders | 110K | Free | 47 | [Link](https://launching.io) |
-| 32 | Makerlog | Built in public, together | Makers, builders, solopreneurs | 200K | Free | 54 | [Link](https://getmakerlog.com) |
-| 33 | MicroLaunch | Micro-SaaS marketplace | Micro-SaaS builders, indie makers | 70K | Free | 39 | [Link](https://microlaunch.net) |
-| 34 | Peerlist | Your professional identity | Tech professionals, builders | 250K | Free | 56 | [Link](https://peerlist.io) |
-| 35 | PitchWall | Startup pitch & feedback platform | Founders, investors | 60K | Free | 37 | [Link](https://pitchwall.co) |
-| 36 | PromoteHour | Promote your startup like a pro | Startup marketers, founders | 50K | Paid ($39-129/mo) | 34 | [Link](https://promotehour.com) |
-| 37 | SaaS Genius | SaaS software comparison platform | SaaS buyers, B2B buyers | 300K | Free | 58 | [Link](https://saasgenius.com) |
-| 38 | SaaS Hub | Find the right SaaS for you | SaaS seekers, business leaders | 350K | Free | 60 | [Link](https://saashub.com) |
-| 39 | SaaS Mag | The SaaS industry magazine | SaaS professionals, founders | 200K | Free | 51 | [Link](https://saasmag.com) |
-| 40 | SaaS Products | Discover SaaS products | SaaS buyers, business leaders | 280K | Free | 57 | [Link](https://saasproducts.com) |
-| 41 | SaaSCity | Launch on a live isometric city map | SaaS founders, indie hackers | 208 | Free | 46 | [Link](https://saascity.io) |
+| 9 | Awesome Indie | Where indie products launch | Indie makers, solo founders, early adopters | XXK | Free | 41 | [Link](https://awesomeindie.com) |
+| 10 | BetaPage | Launch and grow your startup | Early adopters, beta testers | 120K | Free | 48 | [Link](https://betapage.co) |
+| 11 | BetaTesting | Professional beta testing platform | QA professionals, beta testers | 80K | Paid ($50-200/mo) | 55 | [Link](https://betatesting.com) |
+| 12 | Bulletin | Direct channel to makers | SaaS builders, indie makers | 75K | Free | 40 | [Link](https://bulletin.so) |
+| 13 | Capterra | Find the right software | B2B buyers, SMBs | 3M+ | Free/Paid | 85 | [Link](https://capterra.com) |
+| 14 | Cool Startup | Cool new digital products | Tech enthusiasts, early adopters | 60K | Free | 38 | [Link](https://coolstartup.io) |
+| 15 | Crozdesk | Business software research platform | B2B buyers, SMBs | 1M+ | Free | 75 | [Link](https://crozdesk.com) |
+| 16 | Crunchbase | The #1 platform for discovering innovative companies | Investors, researchers, founders | 2M+ | Free/Paid | 89 | [Link](https://crunchbase.com) |
+| 17 | EarlyHunt | Curated early-stage products | Early adopters, tech enthusiasts | 150K | Free | 50 | [Link](https://earlyhunt.com) |
+| 18 | Erli Bird | Early adopter community for product discovery | Beta testers, early adopters | 100K | Paid ($99/mo) | 48 | [Link](https://erlibird.com) |
+| 19 | F6S | The global startup platform | Founders, accelerators, investors | 1M+ | Free | 80 | [Link](https://f6s.com) |
+| 20 | Fazier | Startups that matter | Startup founders, early adopters | 70K | Free | 36 | [Link](https://fazier.com) |
+| 21 | FeedMyStartup | Feed your startup ecosystem | Startup founders, entrepreneurs | 90K | Free | 42 | [Link](https://feedmystartup.com) |
+| 22 | Future Tools | The largest directory of AI tools | AI enthusiasts, builders | 400K+ | Free | 65 | [Link](https://futuretools.io) |
+| 23 | Futurepedia | The most comprehensive AI tools directory | AI tool users, tech professionals | 350K+ | Free | 62 | [Link](https://futurepedia.io) |
+| 24 | G2 | The leading software marketplace | Enterprise buyers, CTOs | 4M+ | Paid ($500-5000/mo) | 87 | [Link](https://g2.com) |
+| 25 | GetApp | Business software at the click of a button | Business software buyers | 1M+ | Free | 81 | [Link](https://getapp.com) |
+| 26 | Hackers and Founders | Community for tech founders | Tech founders, engineers | 200K | Free | 55 | [Link](https://hackersandfounders.com) |
+| 27 | Index.co | The startup encyclopedia | Tech companies, investors | 80K | Free | 44 | [Link](https://index.co) |
+| 28 | KillerStartups | Discover innovative startups | Startup news readers, investors | 180K | Free | 52 | [Link](https://killerstartups.com) |
+| 29 | Launch | New product launches | Early adopters, tech enthusiasts | 120K | Free | 45 | [Link](https://launch.co) |
+| 30 | Launching Next | Your next big product discovery | Early adopters, investors | 100K | Free | 46 | [Link](https://launchingnext.com) |
+| 31 | Launching Tomorrow | Where ideas become products | Product hunters, early adopters | 90K | Free | 43 | [Link](https://launchingtomorrow.com) |
+| 32 | Launching.io | Product launches for everyone | Entrepreneurs, builders | 110K | Free | 47 | [Link](https://launching.io) |
+| 33 | Makerlog | Built in public, together | Makers, builders, solopreneurs | 200K | Free | 54 | [Link](https://getmakerlog.com) |
+| 34 | MicroLaunch | Micro-SaaS marketplace | Micro-SaaS builders, indie makers | 70K | Free | 39 | [Link](https://microlaunch.net) |
+| 35 | Peerlist | Your professional identity | Tech professionals, builders | 250K | Free | 56 | [Link](https://peerlist.io) |
+| 36 | PitchWall | Startup pitch & feedback platform | Founders, investors | 60K | Free | 37 | [Link](https://pitchwall.co) |
+| 37 | PromoteHour | Promote your startup like a pro | Startup marketers, founders | 50K | Paid ($39-129/mo) | 34 | [Link](https://promotehour.com) |
+| 38 | SaaS Genius | SaaS software comparison platform | SaaS buyers, B2B buyers | 300K | Free | 58 | [Link](https://saasgenius.com) |
+| 39 | SaaS Hub | Find the right SaaS for you | SaaS seekers, business leaders | 350K | Free | 60 | [Link](https://saashub.com) |
+| 40 | SaaS Mag | The SaaS industry magazine | SaaS professionals, founders | 200K | Free | 51 | [Link](https://saasmag.com) |
+| 41 | SaaS Products | Discover SaaS products | SaaS buyers, business leaders | 280K | Free | 57 | [Link](https://saasproducts.com) |
+| 42 | SaaSCity | Launch on a live isometric city map | SaaS founders, indie hackers | 208 | Free | 46 | [Link](https://saascity.io) |
 
 ---
 
